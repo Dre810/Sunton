@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* Make all images responsive by default */
 img {
   max-width: 100%; /* Ensures image never overflows its container */
@@ -43,7 +43,7 @@ img {
     font-size: 1rem;         /* Slightly smaller text */
   }
 }
-=======
+
 /* Make images responsive */
 img {
     max-width: 100%;
@@ -81,4 +81,4 @@ img {
       font-size: 1rem;
     }
   }
->>>>>>> 196efca7ba5b4fcd782fa4ea270ade2185b55433
+
